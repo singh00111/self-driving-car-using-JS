@@ -26,7 +26,7 @@ class Controls{
                     this.reverse=true;
                     break;
             }
-            console.table(this); // for debugging
+            //console.table(this); // for debugging
         }
 
         // on pressing key up this is the func you're going to call
