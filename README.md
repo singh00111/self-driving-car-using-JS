@@ -11,3 +11,5 @@ Components of this project are:
 5. Control car using neural network
 
 This project gave me a deeper insight into how neural networks work, the mathematics behind them, car driving physics and tested my vanilla javascript implementation skills through interactive animation.
+
+![image](https://github.com/singh00111/self-driving-car-using-JS/assets/32194946/0eb57ce8-b7c6-4be8-a277-302b72da6dca)
